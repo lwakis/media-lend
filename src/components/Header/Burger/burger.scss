@@ -1,0 +1,38 @@
+.burger {
+    img {
+        cursor: pointer;
+        border-radius: 50%;
+        width: 32px;
+        height: 32px;
+    }
+
+}
+
+.open {
+    position: absolute;
+    width: 200px;
+    background-color: gray;
+    margin: 7px 0 0 -85px;
+    padding: 20px 0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    button {
+        margin: 10px 0;
+        width: 170px;
+        height: 50px;
+        border-radius: 50px;
+        border: none;
+        cursor: pointer;
+        
+        &:hover {
+            border: 2px solid rgb(75, 75, 75);
+        }
+    }
+}
+.close {
+    display: none;
+}

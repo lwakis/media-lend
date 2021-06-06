@@ -1,0 +1,51 @@
+.post {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 40px auto;
+    max-width: 1280px;
+}
+.post__item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+    h1 {
+        margin: 20px 0;
+    }
+    h2 {
+        color: rgb(128, 126, 126);
+        font-size: 18px;
+    }
+    img, video {
+        width: 512px;
+        height: 512px;
+    }
+}
+
+.post__channel {
+    margin: 30px auto;
+    display: flex;
+    width: 512px;
+    justify-content: flex-start;
+    a {
+        text-decoration: none;
+        color: black;
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    img {
+        width: 64px;
+        height: 64px;
+        margin-bottom: 10px;
+    }
+
+    &-info {
+        margin: 0 10px;
+
+        h5 {
+            margin: 5px 0;
+        }
+    }
+}

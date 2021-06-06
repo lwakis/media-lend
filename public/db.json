@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uid": "1915fd18-aced-490f-81a3-268a6787fe88",
+      "channelName": "TestTV",
+      "login": "12345",
+      "password": "12345",
+      "avatar": "https://im0-tub-ru.yandex.net/i?id=b3b460f834fb8074b278650bf6bac5cc&n=13&exp=1",
+      "media": [
+        {
+          "id": 1,
+          "uid": "1",
+          "mediaName": "sbvcfg",
+          "mediaLink": "https://oshi.at/yexmaA/IdxG.jpg",
+          "description": "qqweqe",
+          "channelName": "TestTV"
+        },
+        {
+          "id": 2,
+          "uid": "1",
+          "mediaName": "125125",
+          "mediaLink": "https://oshi.at/vYwFFj/SQXs.jpg",
+          "description": "sacxzc",
+          "channelName": "TestTV"
+        },
+        {
+          "id": 3,
+          "uid": "1",
+          "mediaName": "sdfgsh",
+          "mediaLink": "https://oshi.at/yexmaA/IdxG.jpg",
+          "description": "124124",
+          "channelName": "TestTV"
+        },
+        {
+          "id": 4,
+          "uid": "1",
+          "mediaName": "rytqew",
+          "mediaLink": "https://oshi.at/fbSnDw/ntTx.jpg",
+          "description": "nvbcn",
+          "channelName": "TestTV"
+        },
+        {
+          "id": 5,
+          "uid": "1",
+          "mediaName": "515",
+          "mediaLink": "https://oshi.at/yexmaA/IdxG.jpg",
+          "description": "asdg",
+          "channelName": "TestTV"
+        },
+        {
+          "id": 6,
+          "uid": "1",
+          "mediaName": "qwrqwr",
+          "mediaLink": "https://oshi.at/FUhmuC/LsNX.jpg",
+          "description": "gdfg",
+          "channelName": "TestTV"
+        }
+      ],
+      "subscribe": [
+        2
+      ],
+      "subscribers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "uid": "1915fd18-aced-490f-81a3-268a6787fe88",
+      "channelName": "TestTV2",
+      "login": "12345",
+      "password": "12345",
+      "avatar": "https://im0-tub-ru.yandex.net/i?id=b3b460f834fb8074b278650bf6bac5cc&n=13&exp=1",
+      "media": [
+        {
+          "id": 1,
+          "uid": "2",
+          "mediaName": "картинка",
+          "mediaLink": "https://oshi.at/FUhmuC/LsNX.jpg",
+          "description": "124124",
+          "channelName": "TestTV2"
+        },
+        {
+          "id": 2,
+          "uid": "2",
+          "mediaName": "картинка2",
+          "mediaLink": "https://oshi.at/yexmaA/IdxG.jpg",
+          "description": "124124",
+          "channelName": "TestTV2"
+        },
+        {
+          "id": 3,
+          "uid": "2",
+          "mediaName": "картинка3",
+          "mediaLink": "https://oshi.at/yexmaA/IdxG.jpg",
+          "description": "124124",
+          "channelName": "TestTV2"
+        },
+        {
+          "id": 4,
+          "uid": "2",
+          "mediaName": "картинка4",
+          "mediaLink": "https://oshi.at/FUhmuC/LsNX.jpg",
+          "description": "124124",
+          "channelName": "TestTV2"
+        },
+        {
+          "id": 5,
+          "uid": "2",
+          "mediaName": "картинка5",
+          "mediaLink": "https://oshi.at/fbSnDw/ntTx.jpg",
+          "description": "124124",
+          "channelName": "TestTV2"
+        }
+      ],
+      "subscribe": [],
+      "subscribers": [
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "uid": "035dc9ff-2ba7-4ac0-a226-79995254069c",
+      "channelName": "TestTV3",
+      "login": "12345",
+      "password": "12345",
+      "avatar": "https://im0-tub-ru.yandex.net/i?id=b3b460f834fb8074b278650bf6bac5cc&n=13&exp=1",
+      "media": [],
+      "subscribe": [],
+      "subscribers": []
+    },
+    {
+      "id": 4,
+      "uid": "f4131f8c-33d8-4a3f-b455-92d32fd86dda",
+      "channelName": "TestTv4",
+      "login": "54321",
+      "password": "54321",
+      "avatar": "https://im0-tub-ru.yandex.net/i?id=b3b460f834fb8074b278650bf6bac5cc&n=13&exp=1",
+      "media": [],
+      "subscribe": [
+        1
+      ],
+      "subscribers": []
+    }
+  ]
+}

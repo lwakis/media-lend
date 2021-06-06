@@ -1,0 +1,23 @@
+.header {
+    width: 100%;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+
+    &__container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 80%;                                                                                 
+        height: 50px;
+    }
+
+    &__logo {
+        a {
+            text-decoration: none;
+            font-size: 24px;
+            font-weight: 900;
+            color: white;
+        }
+    }
+}
